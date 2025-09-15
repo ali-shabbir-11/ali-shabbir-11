@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Shabbir</h1>
-<h2 align="center">Student | Learner</h2>
+<h2 align="center">Software Engineer</h2>
 
-- 🔭 I’m currently working on **Web Development,Machine Learning and Computer Vision Projects**
+- 🔭 I’m currently working on **Web Development Projects**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me **ali.shabbir6706@gmail.com**
 
